@@ -57,3 +57,7 @@ li {
   position: relative;
   top: -12px;
 }
+.weather-review {
+  position: relative;
+  bottom: -18px;
+}
