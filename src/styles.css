@@ -62,6 +62,6 @@ li {
   position: relative;
   bottom: -30px;
 }
-#description {
+li:first-letter {
   text-transform: capitalize;
 }
