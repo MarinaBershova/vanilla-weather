@@ -32,7 +32,7 @@ li {
   margin: 30px auto;
   padding: 20px;
   border: 1px solid #885df1;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 .float-left {
   display: inline;
