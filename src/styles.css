@@ -44,8 +44,8 @@ li {
 .weather-temperature img {
   margin-right: 5px;
 
-  height: 64px;
-  width: 64px;
+  height: 100px;
+  width: 100px;
 }
 .weather-temperature strong {
   position: relative;
@@ -74,6 +74,20 @@ li {
 }
 li:first-letter {
   text-transform: capitalize;
+}
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+.weather-forecast-date {
+  font-size: 20px;
+  opacity: 0.5;
+}
+.weather-forecast-temperatures {
+  font-size: 20px;
+}
+.weather-forecast-temperature-min {
+  opacity: 0.5;
 }
 #fahrenheit-link {
   text-decoration: none;
